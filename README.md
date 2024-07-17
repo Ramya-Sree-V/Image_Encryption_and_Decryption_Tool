@@ -19,7 +19,7 @@ This simple Python application allows you to encrypt and decrypt images using a 
 1. **Clone the repository:**
 
    ```bash
-   git clone  https://github.com/RSreeV123/PRODIGY-CS-02.git
+   git clone  https://github.com/Ramya-Sree-V/PRODIGY_CS_02.git
    ```
 2. **Run the Application**
    
